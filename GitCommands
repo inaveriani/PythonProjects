@@ -29,4 +29,3 @@ Git: branching
   git checkout <branch-name>
   git merge <branch-name>
   git checkout -b < branch-name>
-  
